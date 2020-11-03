@@ -1,2 +1,5 @@
-package ar.edu.unahur.obj2.tareas 
+package ar.edu.unahur.obj2.tareas
 
+class Empleado(val valorHora: Int) {
+
+}
